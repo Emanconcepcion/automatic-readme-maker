@@ -39,7 +39,7 @@ On your terminal input "npm run test".
 
 concepcion_eman@yahoo.com
 
-## Contact
+## Github Username
 
 Emanconcepcion
 
