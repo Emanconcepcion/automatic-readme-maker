@@ -27,12 +27,12 @@ inquirer
     {
       type: "input",
       name: "contributing",
-      message: "Who is envolved in creating this project",
+      message: "Who is involved in creating this project",
     },
     {
       type: "input",
       name: "usage",
-      message: "What is the project usage for?",
+      message: "What is the purpose of this project?",
     },
     {
       type: "input",
@@ -51,9 +51,9 @@ inquirer
     },
   ])
   .then((data) => {
-    // 
+    //
     const readme = 
-    `# ${data.title}
+`# ${data.title}
 ## Table of Contents
 * [Description](#description)
 * [License](#license)
@@ -70,7 +70,7 @@ ${data.description}
 
 
 ## License
-![license](https://img.shields.io/static/v1?label=license&message=${data.license}&color=blueviolet)
+![license](https://img.shields.io/static/v1?label=license&message=${data.license}&color=purple)
 
 ## Installation
 ${data.installation}
