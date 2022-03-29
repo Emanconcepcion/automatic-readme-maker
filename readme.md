@@ -45,4 +45,4 @@ Emanconcepcion
 
 ## Screenshots
 
-<img src="./screenshot/screenshot1.png>
+<img src="./assests/photo1.png>
