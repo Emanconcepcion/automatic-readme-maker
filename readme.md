@@ -1,4 +1,4 @@
-# Instant readME Generator
+# Automatic readMe Generator
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ On your terminal input "npm run test".
 
 concepcion_eman@yahoo.com
 
-## Github Username
+## Contact
 
 Emanconcepcion
 
